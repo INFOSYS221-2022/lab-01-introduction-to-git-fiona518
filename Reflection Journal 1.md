@@ -5,4 +5,8 @@ Some of the major problems I encountered is that I had trouble is understanding 
 
 <h2>Lab content - Inward Looking</h2>
 <h3>What was especially satisfying to you about either the process or the finished product?</h3>
-The satisfying part for me about this assignment is that the problem solving process. It's the feeling that you went from not understanding a single thing to learning enough information and getting the hang of it. I feel it's nice to look at the product and the see how far I've come from it. I feel proud about the result and the knowledge that I gained from this. 
+The satisfying part for me about this assignment is that the problem solving process. It's the feeling that you went from not understanding a single thing to learning enough information and getting the hang of it. I feel it's nice to look at the product and the see how far I've come from it. I feel proud about the result and the knowledge that I gained from this.
+
+<h2>Course overall - Outward Looking</h2>
+<h3>Did you do your work the way other people did theirs?</h3>
+Judging from the discussion between project members, I think we did the project pretty similarly. Because there are 3 categories we have to answer and we need to commit three times, we decide to do 1 commit for each question and I think that will be pretty similar to other people. The only thing that I think will be different might be the format and the content. But overall, judging by the method, I think we have the similar idea. 
